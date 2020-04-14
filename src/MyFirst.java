@@ -1,5 +1,3 @@
-package taaps;
-
 /*This is my n program*/
 public class MyFirst {
 

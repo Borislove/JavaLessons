@@ -1,5 +1,3 @@
-package taaps;
-
 //#25 Логический тип данных, логические операции
 public class MyBoolean {
 

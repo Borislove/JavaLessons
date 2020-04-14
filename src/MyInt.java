@@ -1,5 +1,3 @@
-package taaps;
-
 public class MyInt {
 
     public static void main(String[] args) {

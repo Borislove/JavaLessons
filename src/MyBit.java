@@ -1,5 +1,3 @@
-package taaps;
-
 //побитовые операции
 public class MyBit {
 

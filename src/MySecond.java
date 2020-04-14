@@ -1,5 +1,3 @@
-package taaps;
-
 //My n+ progam
 //Примеры с пробелами
 //#23

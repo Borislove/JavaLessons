@@ -1,5 +1,3 @@
-package taaps;
-
 //№29. Арифметические операции
 
 public class BasicMath {

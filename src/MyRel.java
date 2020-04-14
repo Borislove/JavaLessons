@@ -1,5 +1,3 @@
-package taaps;
-
 //операции отношений / сравнение
 public class MyRel {
 

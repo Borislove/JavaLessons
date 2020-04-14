@@ -1,5 +1,3 @@
-package taaps;
-
 //Урок №34. Выражения. Приоритет операций
 public class MyExp {
 

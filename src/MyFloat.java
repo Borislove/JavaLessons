@@ -1,5 +1,3 @@
-package taaps;
-
 public class MyFloat {
 
     public static void main(String[] args) {

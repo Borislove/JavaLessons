@@ -1,5 +1,3 @@
-package taaps;
-
 public class MyLong {
 
     public static void main(String[] args) {

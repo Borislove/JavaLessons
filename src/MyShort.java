@@ -1,5 +1,3 @@
-package taaps;
-
 public class MyShort {
 
     public static void main(String[] args) {

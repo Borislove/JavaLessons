@@ -1,5 +1,3 @@
-package taaps;
-
 public class MyDouble {
 
     public static void main(String[] args) {

@@ -1,5 +1,3 @@
-package taaps;
-
 public class MyCh {
 
     public static void main(String[] args) {

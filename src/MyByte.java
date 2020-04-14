@@ -1,5 +1,3 @@
-package taaps;
-
 public class MyByte {
 
     public static void main(String[] args) {

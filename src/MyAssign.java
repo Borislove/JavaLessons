@@ -1,5 +1,3 @@
-package taaps;
-
 //Урок №33. Операция присваивания. Условная операция
 public class MyAssign {    
 
