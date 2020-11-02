@@ -12,7 +12,7 @@
 
 5. [Системы счисления](https://www.youtube.com/watch?v=85WNZKdz620&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=5)~8:51
 
-6.
+6. [Перевод целых чисел из систем счисления](https://www.youtube.com/watch?v=Mex-LBZUv0s&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=7)~5:53
 
 7.
 
