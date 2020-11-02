@@ -14,7 +14,7 @@
 
 6. [Перевод целых чисел из систем счисления](https://www.youtube.com/watch?v=Mex-LBZUv0s&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=7)~5:53
 
-7.
+7. [Перевод дробных чисел из систем счисления](https://www.youtube.com/watch?v=wEmkl9ZVntU&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=8)~5:55
 
 8. [Перевод в десятичную систему счисления](https://www.youtube.com/watch?v=znuHu_xHVXg&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=6)~3:57
 
