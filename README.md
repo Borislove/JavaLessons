@@ -12,7 +12,11 @@
 
 5. [Системы счисления](https://www.youtube.com/watch?v=85WNZKdz620&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=5)~8:51
 
+6.
 
+7.
+
+8. [Перевод в десятичную систему счисления](https://www.youtube.com/watch?v=znuHu_xHVXg&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=6)~3:57
 
 
 ~ (символ для индекса)
