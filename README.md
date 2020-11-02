@@ -26,7 +26,7 @@
 
 12. [Представление чисел в компьютерных системах](https://www.youtube.com/watch?v=uet98ZIwNCs&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=12)~6:51
 
-
+13. [Сложение обратных кодов](https://www.youtube.com/watch?v=2IZNkj-McdM&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=13)~7:48
 
 
 ~ (символ для индекса)
