@@ -10,6 +10,10 @@
 
 4. [Что такое позиционные системы счисления](https://www.youtube.com/watch?v=PutEm5uAMxk&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=4)~8:20
 
+5. [Системы счисления](https://www.youtube.com/watch?v=85WNZKdz620&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=5)~8:51
+
+
+
 
 ~ (символ для индекса)
 []()~
