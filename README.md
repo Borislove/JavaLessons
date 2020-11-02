@@ -6,5 +6,8 @@
 
 2. [Машинные языки](https://www.youtube.com/watch?v=oDr7H-ZQjSE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=2)~5:27
 
+3. [Общее описание среды программирования](https://www.youtube.com/watch?v=vQAaZ_7hcoQ&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=3)~6:40
+
 
 ~ (символ для индекса)
+[]()~
