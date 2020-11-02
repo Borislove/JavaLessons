@@ -20,7 +20,7 @@
 
 9. [Примеры перевода систем счисления](https://www.youtube.com/watch?v=hnXKdtqZjP0&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=9)~8:00
 
-
+10. [Сложение и вычитание](https://www.youtube.com/watch?v=7bEwm9FqIVo&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=10)~4:38
 
 
 
