@@ -22,7 +22,7 @@
 
 10. [Сложение и вычитание](https://www.youtube.com/watch?v=7bEwm9FqIVo&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=10)~4:38
 
-
+11. [Умножение и деление в системах счисления](https://www.youtube.com/watch?v=Skq7oXksFxM&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=11)~5:39
 
 
 
