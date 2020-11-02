@@ -24,7 +24,7 @@
 
 11. [Умножение и деление в системах счисления](https://www.youtube.com/watch?v=Skq7oXksFxM&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=11)~5:39
 
-
+12. [Представление чисел в компьютерных системах](https://www.youtube.com/watch?v=uet98ZIwNCs&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=12)~6:51
 
 
 
