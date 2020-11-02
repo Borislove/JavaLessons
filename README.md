@@ -18,6 +18,16 @@
 
 8. [Перевод в десятичную систему счисления](https://www.youtube.com/watch?v=znuHu_xHVXg&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=6)~3:57
 
+9. [Примеры перевода систем счисления](https://www.youtube.com/watch?v=hnXKdtqZjP0&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=9)~8:00
+
+
+
+
+
+
+
+
+
 
 ~ (символ для индекса)
 []()~
