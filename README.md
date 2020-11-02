@@ -8,6 +8,8 @@
 
 3. [Общее описание среды программирования](https://www.youtube.com/watch?v=vQAaZ_7hcoQ&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=3)~6:40
 
+4. [Что такое позиционные системы счисления](https://www.youtube.com/watch?v=PutEm5uAMxk&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=4)~8:20
+
 
 ~ (символ для индекса)
 []()~
