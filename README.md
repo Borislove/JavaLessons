@@ -30,13 +30,13 @@
 
 14. [Сложение дополнительных кодов](https://www.youtube.com/watch?v=CKs6a3_-zDA&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=14&t=3s)~7:29
 
-15. []()~
+15. [Вещественные числа в компьютерных системах](https://www.youtube.com/watch?v=eFmYP54BW1c&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=15)~7:21
 
-16. []()~
+16. [Алгоритмы и алгоритмические языки](https://www.youtube.com/watch?v=cX247ZSE-Ws&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=16)~4:35
 
-17. []()~
+17. [Итерационные циклы](https://www.youtube.com/watch?v=5NhRpYPRpls&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=17)~4:18
 
-18. []()~
+18. [Вложенные циклы](https://www.youtube.com/watch?v=0N3sIHJXWtU&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=18)~6:07
 
 19. []()~
 
