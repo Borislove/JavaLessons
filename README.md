@@ -51,7 +51,8 @@
 
 * описание конструкции **MAIN**
 
-   *дополнительный материал:*
+
+         *дополнительный материал:*
 
 * [Code Conventions for the Java Programming Language](https://www.oracle.com/java/technologies/javase/codeconventions-introduction.html)
 
