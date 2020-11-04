@@ -91,6 +91,14 @@
 
 25. [Логический тип данных, логические операции](https://www.youtube.com/watch?v=cbELUCfjY7k&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=25)~16:13
 
+***
+
+* Логический тип **Boolean**
+
+* Дизъюнкция , конъюнкция, отрицание, исключающие или 
+
+***
+
 26. []()~
 
 27. []()~
