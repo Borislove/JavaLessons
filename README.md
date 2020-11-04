@@ -47,9 +47,13 @@
 22. [Установка CLASS PATH, первая программа](https://www.youtube.com/watch?v=episVE9fFe8&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=22)~15:18
 * комментарии (ознакомление)
 
+* описание конструкции **MAIN**
+
 * [Code Conventions for the Java Programming Language](https://www.oracle.com/java/technologies/javase/codeconventions-introduction.html)
 
 * [Немного правил](https://github.com/Borislove/Misk/blob/master/src/info)
+
+
 
 
 23. []()~
