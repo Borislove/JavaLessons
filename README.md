@@ -42,7 +42,7 @@
 
 20. [Наибольший общий делитель двух чисел](https://www.youtube.com/watch?v=4_HkJN8qto4&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=20)~5:52
 
-21. []()~
+21. [Установка Java SDK](https://www.youtube.com/watch?v=OnAu5JY4AzQ&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=21)~7:35
 
 22. []()~
 
