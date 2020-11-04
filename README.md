@@ -47,6 +47,10 @@
 22. [Установка CLASS PATH, первая программа](https://www.youtube.com/watch?v=episVE9fFe8&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=22)~15:18
 * комментарии (ознакомление)
 
+* компиляция программы(javac)
+
+* запуск программы(java)
+
 * вывод сообщения в консоль *(Hello World!)*
 
 * описание конструкции **MAIN**
