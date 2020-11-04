@@ -1,10 +1,10 @@
-//#24 типы данных
+package lesson_24;//#24 типы данных
 
 /*
-Addition - прибавление
+lesson_24.Addition - сложение двух чисел
 */
 
-public class Addition {
+public class Addition { //Addition - сложение
 
     public static void main(String[] args) {
 
