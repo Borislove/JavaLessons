@@ -40,7 +40,7 @@
 
 19. [Примеры создания алгоритмов](https://www.youtube.com/watch?v=E3J00Vym8XE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=19)~3:21
 
-20. []()~
+20. [Наибольший общий делитель двух чисел](https://www.youtube.com/watch?v=4_HkJN8qto4&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=20)~5:52
 
 21. []()~
 
