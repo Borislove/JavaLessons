@@ -77,7 +77,7 @@
 
 ***
 
-24. []()~
+24. [Типы данных в языке Java](https://www.youtube.com/watch?v=PkyHVC2glUw&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=24)~10:57
 
 25. []()~
 
