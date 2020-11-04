@@ -45,6 +45,8 @@
 21. [Установка Java SDK](https://www.youtube.com/watch?v=OnAu5JY4AzQ&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=21)~7:35
 
 22. [Установка CLASS PATH, первая программа](https://www.youtube.com/watch?v=episVE9fFe8&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=22)~15:18
+* комментарии
+
 
 23. []()~
 
