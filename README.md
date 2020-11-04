@@ -65,7 +65,7 @@
 
 
 
-23. []()~
+23. [Вторая программа - работа с System.out.print](https://www.youtube.com/watch?v=yoih13oE6Ao&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=23)~15:30
 
 24. []()~
 
