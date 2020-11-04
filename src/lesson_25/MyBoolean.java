@@ -1,3 +1,5 @@
+package lesson_25;
+
 //#25 Логический тип данных, логические операции
 public class MyBoolean {
 
@@ -20,6 +22,11 @@ public class MyBoolean {
         System.out.println(b1 + " " + b2);
         System.out.println("XOR (^) b1^b2 = " + (b1 ^ b2)); //исключающее или
 
+        boolean b3 = true;
+        boolean b4 = false;
+        System.out.println("b3&b4 "+(b3&b4));
+        b4 = !b4;
+        System.out.println("b3&b4 "+(b3&b4));
     }
 }
 
