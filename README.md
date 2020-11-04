@@ -49,6 +49,8 @@
 
 * описание конструкции **MAIN**
 
+   *дополнительный материал:*
+
 * [Code Conventions for the Java Programming Language](https://www.oracle.com/java/technologies/javase/codeconventions-introduction.html)
 
 * [Немного правил](https://github.com/Borislove/Misk/blob/master/src/info)
