@@ -116,7 +116,11 @@
 
 * знакомство с таблицей юникод
 
-28. []()~
+28. [Типы с плавающей точкой](https://www.youtube.com/watch?v=rDl0cbPaiZA&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=28)~7:15
+
+                  double
+                  
+                  float
 
 29. []()~
 
