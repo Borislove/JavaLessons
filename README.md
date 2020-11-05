@@ -176,6 +176,9 @@
 
 38. [Управляющий оператор switch](https://www.youtube.com/watch?v=rtyCsukc6UI&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=38)~11:50
 
+         описание конструкции switch
+         оператор break
+
 39. []()~
 
 40. []()~
