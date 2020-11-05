@@ -1,3 +1,5 @@
+package lesson_27;
+
 public class MyCh {
 
     public static void main(String[] args) {
@@ -18,6 +20,5 @@ public class MyCh {
             ch2++;
 
         }
-
     }
 }
