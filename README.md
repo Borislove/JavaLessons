@@ -142,7 +142,7 @@
 
 31. [Побитовые операции](https://www.youtube.com/watch?v=W4CGeFKQ0mg&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=31)~12:49
 
-32. []()~
+32. [Операции отношений](https://www.youtube.com/watch?v=4WpTEN8UabE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=32)~12:38
 
 33. []()~
 
