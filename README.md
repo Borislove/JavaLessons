@@ -152,7 +152,9 @@
                   >=
                   <=
 
-33. []()~
+33. [Операция присваивания. Условная операция](https://www.youtube.com/watch?v=P4DB-djKSVE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=33)~13:42
+
+                  цепочки присваиваний
 
 34. []()~
 
