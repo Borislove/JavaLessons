@@ -100,6 +100,7 @@
 ***
 
 26. [Целые типы языка Java](https://www.youtube.com/watch?v=q4rnLyYjK9U&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=26)~14:55
+
 ***
 
                   byte
@@ -110,7 +111,10 @@
 
                   long
 ***
-27. []()~
+
+27. [Символьный тип char](https://www.youtube.com/watch?v=Wpy4whSrRi8&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=27)~9:30
+
+* знакомство с таблицей юникод
 
 28. []()~
 
