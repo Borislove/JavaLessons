@@ -166,7 +166,7 @@
 
 ***
 
-34. []()~
+34. [Выражения. Приоритет операций](https://www.youtube.com/watch?v=jxQyShv_zhs&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=34)~8:48
 
 35. []()~
 
