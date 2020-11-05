@@ -1,3 +1,5 @@
+package lesson_35;
+
 //Урок №35. Управляющий оператор if, else
 public class MyIf {
 
