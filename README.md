@@ -144,6 +144,14 @@
 
 32. [Операции отношений](https://www.youtube.com/watch?v=4WpTEN8UabE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=32)~12:38
 
+                  операции сравнения:
+                  <
+                  >
+                  ==
+                  !=
+                  >=
+                  <=
+
 33. []()~
 
 34. []()~
