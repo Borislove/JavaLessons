@@ -1,3 +1,5 @@
+package lesson_38;
+
 //Урок №38. Управляющий оператор switch
 public class MySwitch {
     public static void main(String[] args) {
