@@ -1,4 +1,4 @@
-//№29. Арифметические операции
+package lesson_29;//№29. Арифметические операции
 
 public class BasicMath {
 
