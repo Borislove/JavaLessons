@@ -170,7 +170,7 @@
 
 35. [Управляющий оператор if, else](https://www.youtube.com/watch?v=rKe3AhNFs1I&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=35)~12:05
 
-36. []()~
+36. [Оператор цикла while, do-while](https://www.youtube.com/watch?v=WczrBdKAmB8&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=36)~7:08
 
 37. []()~
 
