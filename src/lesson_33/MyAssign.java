@@ -1,3 +1,5 @@
+package lesson_33;
+
 //Урок №33. Операция присваивания. Условная операция
 public class MyAssign {    
 
@@ -9,10 +11,11 @@ public class MyAssign {
         System.out.println("a = " + a);
         a = 4;
         System.out.println("a = " + a);
-        a +=3; //
+        a +=3; // a = a + 3
         System.out.println("a = " + a);
         a = 0;
         System.out.println("a = " + a);
+        //цепочка присваиваний
         b = c = d = 100;
         System.out.println("b = " + b + " c = " + c + " d = "+ d);
     }

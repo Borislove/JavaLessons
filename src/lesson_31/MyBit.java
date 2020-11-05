@@ -1,3 +1,5 @@
+package lesson_31;
+
 //побитовые операции
 public class MyBit {
 

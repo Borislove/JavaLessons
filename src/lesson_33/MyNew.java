@@ -1,3 +1,5 @@
+package lesson_33;
+
 //33 Условная операция
 public class MyNew {
 

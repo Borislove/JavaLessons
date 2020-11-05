@@ -1,3 +1,5 @@
+package lesson_32;
+
 //операции отношений / сравнение
 public class MyRel {
 
