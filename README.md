@@ -122,7 +122,13 @@
                   
                   float
 
-29. []()~
+29. [Арифметические операции](https://www.youtube.com/watch?v=bDTGdpxn_WU&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=29)~13:55
+
+*сложение
+*вычитание
+*умножение
+*деление
+*остаток от деления
 
 30. []()~
 
