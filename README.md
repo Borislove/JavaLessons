@@ -168,7 +168,7 @@
 
 34. [Выражения. Приоритет операций](https://www.youtube.com/watch?v=jxQyShv_zhs&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=34)~8:48
 
-35. []()~
+35. [Управляющий оператор if, else](https://www.youtube.com/watch?v=rKe3AhNFs1I&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=35)~12:05
 
 36. []()~
 
