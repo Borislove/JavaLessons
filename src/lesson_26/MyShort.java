@@ -1,3 +1,5 @@
+package lesson_26;
+
 public class MyShort {
 
     public static void main(String[] args) {

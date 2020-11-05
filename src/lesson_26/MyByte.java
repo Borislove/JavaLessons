@@ -1,3 +1,5 @@
+package lesson_26;
+
 public class MyByte {
 
     public static void main(String[] args) {
