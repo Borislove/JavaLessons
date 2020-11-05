@@ -122,9 +122,23 @@
                   
                   float
 
-29. []()~
+29. [Арифметические операции](https://www.youtube.com/watch?v=bDTGdpxn_WU&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=29)~13:55
+***
+*  *сложение*
 
-30. []()~
+* *вычитание*
+
+* *умножение*
+
+* *деление*
+
+* *остаток от деления* (деление по модулю)
+***
+30. [Инкремент, декремент](https://www.youtube.com/watch?v=IF8l8iU6PiY&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=30)~7:04
+
+* *префиксный*
+
+* *постфиксный*
 
 31. []()~
 
