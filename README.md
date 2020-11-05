@@ -91,8 +91,25 @@
 
 25. [Логический тип данных, логические операции](https://www.youtube.com/watch?v=cbELUCfjY7k&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=25)~16:13
 
-26. []()~
+***
 
+* Логический тип **Boolean**
+
+* Дизъюнкция , конъюнкция, отрицание, исключающие или 
+
+***
+
+26. [Целые типы языка Java](https://www.youtube.com/watch?v=q4rnLyYjK9U&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=26)~14:55
+***
+
+                  byte
+
+                  short
+
+                  int
+
+                  long
+***
 27. []()~
 
 28. []()~
