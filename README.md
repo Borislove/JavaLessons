@@ -134,7 +134,11 @@
 
 * *остаток от деления* (деление по модулю)
 ***
-30. []()~
+30. [Инкремент, декремент](https://www.youtube.com/watch?v=IF8l8iU6PiY&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=30)~7:04
+
+* *префиксный*
+
+* *постфиксный*
 
 31. []()~
 
