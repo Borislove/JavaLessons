@@ -174,10 +174,6 @@
 
 37. [Оператор цикла for](https://www.youtube.com/watch?v=jCd48RY3xNw&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=37)~11:43
 
-                  инициализация
-                  условие
-                  инкрементация
-
 38. []()~
 
 39. []()~
