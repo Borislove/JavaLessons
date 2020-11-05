@@ -101,10 +101,10 @@
 
 26. [Целые типы языка Java](https://www.youtube.com/watch?v=q4rnLyYjK9U&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=26)~14:55
 ***
-         <span style="color:blue"> *byte* </span>
-         <span style="color:blue"> *short* </span>
-         <span style="color:blue"> *int* </span>
-         <span style="color:blue"> *long* </span>
+         *byte*
+         *short* 
+         *int*
+         *long* 
 ***
 27. []()~
 
