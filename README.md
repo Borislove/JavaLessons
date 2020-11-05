@@ -179,7 +179,11 @@
          описание конструкции switch
          оператор break
 
-39. []()~
+39. [Оператор перехода break](https://www.youtube.com/watch?v=Z02hGYkokPU&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=39)~11:46
+         
+         оператор break
+         оператор continue
+         оператор return
 
 40. []()~
 
