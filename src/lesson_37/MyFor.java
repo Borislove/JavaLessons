@@ -1,3 +1,5 @@
+package lesson_37;
+
 //Урок №37. Оператор цикла for
 public class MyFor {
     public static void main(String[] args) {
