@@ -140,7 +140,7 @@
 
 * *постфиксный*
 
-31. []()~
+31. [Побитовые операции](https://www.youtube.com/watch?v=W4CGeFKQ0mg&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=31)~12:49
 
 32. []()~
 
