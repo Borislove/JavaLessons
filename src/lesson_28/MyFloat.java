@@ -1,3 +1,5 @@
+package lesson_28;
+
 public class MyFloat {
 
     public static void main(String[] args) {
