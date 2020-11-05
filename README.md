@@ -140,11 +140,31 @@
 
 * *постфиксный*
 
-31. []()~
+31. [Побитовые операции](https://www.youtube.com/watch?v=W4CGeFKQ0mg&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=31)~12:49
 
-32. []()~
+32. [Операции отношений](https://www.youtube.com/watch?v=4WpTEN8UabE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=32)~12:38
 
-33. []()~
+***
+
+                  операции сравнения:
+                  <
+                  >
+                  ==
+                  !=
+                  >=
+                  <=
+
+***
+
+33. [Операция присваивания. Условная операция](https://www.youtube.com/watch?v=P4DB-djKSVE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=33)~13:42
+
+***
+
+                  цепочки присваиваний
+                  
+**Тернарная условная операция**(*тернарный оператор*)
+
+***
 
 34. []()~
 
