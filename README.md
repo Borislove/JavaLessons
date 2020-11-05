@@ -172,7 +172,7 @@
 
 36. [Оператор цикла while, do-while](https://www.youtube.com/watch?v=WczrBdKAmB8&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=36)~7:08
 
-37. []()~
+37. [Оператор цикла for](https://www.youtube.com/watch?v=jCd48RY3xNw&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=37)~11:43
 
 38. []()~
 
