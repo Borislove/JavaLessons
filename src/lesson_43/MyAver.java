@@ -1,5 +1,7 @@
+package lesson_43;
+
 //Урок №43
-public class MyAver {
+public class MyAver { //среднее арифметическое
     public static void main(String[] args) {
 
         double number[] = {11.1, 12.4, 15, 16.3};
