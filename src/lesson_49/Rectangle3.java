@@ -1,3 +1,5 @@
+package lesson_49;
+
 //Урок №51. Java. Методы класса
 public class Rectangle3 {
     double width;

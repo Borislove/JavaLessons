@@ -1,3 +1,5 @@
+package lesson_49;
+
 //Урок №52
 public class Rectangle4 {
     double width;
