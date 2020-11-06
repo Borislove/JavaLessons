@@ -1,3 +1,5 @@
+package lesson_44;
+
 //Урок №44
 public class MyDays {
     public static void main(String[] args) {
