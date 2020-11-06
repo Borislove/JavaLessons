@@ -1,3 +1,5 @@
+package lesson_42;
+
 //Урок №42. Java. Приведение типов
 public class MyConv {
     public static void main(String[] args) {
