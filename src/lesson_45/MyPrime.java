@@ -1,4 +1,7 @@
+package lesson_45;
+
 //Урок №45
+//проверка числа, простое или составное
 public class MyPrime {
     public static void main(String[] args) {
 
