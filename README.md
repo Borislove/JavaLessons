@@ -208,7 +208,11 @@
          делаем меню
          чтение с клавиатуры
 
-47. []()~
+47. [Java. ООП](https://www.youtube.com/watch?v=PsXyo_XJr1g&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=46)~6:10
+
+         наследование
+         инкапсуляция
+         полиморфизм
 
 48. []()~
 
