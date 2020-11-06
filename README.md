@@ -203,9 +203,16 @@
 
          простое или составное число?
          
-46. []()~
+46. [Повторение пройденного. Пример - 4](https://www.youtube.com/watch?v=UAlG2PCiouw&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=45)~10:25
 
-47. []()~
+         делаем меню
+         чтение с клавиатуры
+
+47. [Java. ООП](https://www.youtube.com/watch?v=PsXyo_XJr1g&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=46)~6:10
+
+         наследование
+         инкапсуляция
+         полиморфизм
 
 48. []()~
 
