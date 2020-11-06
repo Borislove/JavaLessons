@@ -1,3 +1,5 @@
+package lesson_39;
+
 //Урок №39. Оператор перехода break
 public class MyBreak {
     public static void main(String[] args) {
