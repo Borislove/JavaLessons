@@ -186,7 +186,10 @@
 
 40. [Операторы перехода continue, return](https://www.youtube.com/watch?v=yHJ01m_URnE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=40)~9:44
 
-41. []()~
+41. [Java.Массивы](https://www.youtube.com/watch?v=gmJ2VAfKTUg&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=41)~5:39
+
+        общее представление
+        объявление
 
 42. []()~
 
