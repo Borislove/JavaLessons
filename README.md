@@ -191,7 +191,7 @@
         общее представление
         объявление
 
-42. []()~
+42. [Java. Приведение типов](https://www.youtube.com/watch?v=dIIHwwyn_pE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=43)~12:14
 
 43. [Повторение пройденного. Пример - 1](https://www.youtube.com/watch?v=ZrFF3rMPlWg&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=42)~10:38
 
