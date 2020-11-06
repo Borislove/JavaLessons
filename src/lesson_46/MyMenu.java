@@ -1,10 +1,10 @@
+package lesson_46;
+
 import java.io.IOException;
 
 //Урок №46
 public class MyMenu {
     public static void main(String[] args) throws IOException {
-
-
         char choice;
         int a1 = 10;
         int a2 = 2;
