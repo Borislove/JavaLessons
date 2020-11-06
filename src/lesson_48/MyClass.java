@@ -1,3 +1,5 @@
+package lesson_48;
+
 //Урок №48. Java. Пример работы с классом
 public class MyClass {
     int myClass_properties;
