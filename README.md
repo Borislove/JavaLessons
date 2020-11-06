@@ -216,7 +216,7 @@
          инкапсуляция
          полиморфизм
 
-48. []()~
+48. [Пример работы с классом](https://www.youtube.com/watch?v=Pyv9f_HEe9k&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=48)~11:04
 
 49. []()~
 
