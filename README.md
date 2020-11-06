@@ -203,7 +203,10 @@
 
          простое или составное число?
          
-46. []()~
+46. [Повторение пройденного. Пример - 4](https://www.youtube.com/watch?v=UAlG2PCiouw&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=45)~10:25
+
+         делаем меню
+         чтение с клавиатуры
 
 47. []()~
 
