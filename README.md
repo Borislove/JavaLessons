@@ -199,8 +199,10 @@
 
 44. []()~
 
-45. []()~
+45. [Повторение пройденного. Пример - 3](https://www.youtube.com/watch?v=T-LgfPhR2hw&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=44)~10:02
 
+         простое или составное число?
+         
 46. []()~
 
 47. []()~
