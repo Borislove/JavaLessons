@@ -247,7 +247,7 @@
 
 61. [Класс String. Метод main](https://www.youtube.com/watch?v=WJ7f-jI5b3I&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=61)~13:46
 
-62. []()~
+62. [Наследование](https://www.youtube.com/watch?v=OaIBL9E5bJU&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=62)~9:50
 
 63. []()~
 
