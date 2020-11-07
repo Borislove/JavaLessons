@@ -1,3 +1,4 @@
+package lesson_61;
 
 //Урок №61.Класс String. Метод main
 public class MyString {
@@ -12,15 +13,15 @@ public class MyString {
         System.out.println(st1);
         System.out.println("Finish");
 
-        System.out.println("Rsult is " + st.equals(st1));
+        System.out.println("Result is " + st.equals(st1));
 
-        System.out.println("Rsult is " + st.equals(st2));
+        System.out.println("Result is " + st.equals(st2));
 
-        System.out.println("Rsult is " + st2.length());
+        System.out.println("Result is " + st2.length());
 
         String str[] = {"one", "two"};
-        System.out.println("Rsult is " + str[0]);
-        System.out.println("Rsult is " + str[1]);
+        System.out.println("Result is " + str[0]);
+        System.out.println("Result is " + str[1]);
 
 /*
         System.out.println("Rsult is " + args[0]);
