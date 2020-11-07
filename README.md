@@ -259,7 +259,7 @@
 
 67. [Многоуровневая иерархия](https://www.youtube.com/watch?v=ZkbgmWyK9G8&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=67)~6:37
 
-68. []()~
+68. [Переопределение методов](https://www.youtube.com/watch?v=xmV5Ruabd0w&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=68)~10:13
 
 69. []()~
 
