@@ -241,7 +241,7 @@
 
 58. [Рекурсия](https://www.youtube.com/watch?v=41ESvkT-aw8&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=58)~13:50
 
-59. []()~
+59. [Работа с несколькими классами](https://www.youtube.com/watch?v=LBeET1cJi3w&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=59)~6:55
 
 60. []()~
 
