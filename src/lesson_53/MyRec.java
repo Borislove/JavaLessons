@@ -1,3 +1,5 @@
+package lesson_53;
+
 //Урок №53. Java. Конструкторы
 public class MyRec {
     double width;
