@@ -1,3 +1,5 @@
+package lesson_55;
+
 public class MyClasss {
     int a;
     int b;
