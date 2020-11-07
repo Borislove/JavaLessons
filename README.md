@@ -226,9 +226,12 @@
 
 52. [Метод с аргументами](https://www.youtube.com/watch?v=r_XLgf3w56w&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=52)~4:51
 
-53. []()~
+53. [Конструкторы](https://www.youtube.com/watch?v=Er8mu10U4j8&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=53)~8:12
 
-54. []()~
+         конструктор по умолчанию
+         параметризованный конструктор
+
+54. [Ключевое слово this](https://www.youtube.com/watch?v=8zURDvTb3M8&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=54)~7:26
 
 55. []()~
 
