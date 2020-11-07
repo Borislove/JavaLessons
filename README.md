@@ -255,7 +255,7 @@
 
 65. [Наследование и управление доступом](https://www.youtube.com/watch?v=F2xUc1g7UuQ&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=65)~8:05
 
-66. []()~
+66. [Ключевое слово super](https://www.youtube.com/watch?v=EeHbsYKYRv0&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=66)~9:45
 
 67. []()~
 
