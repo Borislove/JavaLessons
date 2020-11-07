@@ -239,7 +239,7 @@
 
 57. [Возврат объектов](https://www.youtube.com/watch?v=cljHcVNC0XA&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=57)~6:48
 
-58. []()~
+58. [Рекурсия](https://www.youtube.com/watch?v=41ESvkT-aw8&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=58)~13:50
 
 59. []()~
 
