@@ -251,7 +251,7 @@
 
 63. [Управление доступом](https://www.youtube.com/watch?v=Drj7MhuyPc8&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=63)~11:04
 
-64. []()~
+64. [Вложенные и внутренние классы](https://www.youtube.com/watch?v=xYqAGGbvswE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=64)~10:09
 
 65. []()~
 
