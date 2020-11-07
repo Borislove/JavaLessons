@@ -249,7 +249,7 @@
 
 62. [Наследование](https://www.youtube.com/watch?v=OaIBL9E5bJU&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=62)~9:50
 
-63. []()~
+63. [Управление доступом](https://www.youtube.com/watch?v=Drj7MhuyPc8&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=63)~11:04
 
 64. []()~
 
