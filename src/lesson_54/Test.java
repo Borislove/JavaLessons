@@ -1,3 +1,5 @@
+package lesson_54;
+
 //Урок №54. Ключевое слово this
 public class Test {
     int a;
