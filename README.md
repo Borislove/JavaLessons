@@ -235,9 +235,9 @@
 
 55. [Перегрузка методов и конструкторов](https://www.youtube.com/watch?v=QYTGfJDogh4&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=55)~13:28
 
-56. []()~
+56. [Объекты в качестве аргументов и параметров](https://www.youtube.com/watch?v=bDJXQ6fVEw4&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=56)~6:30
 
-57. []()~
+57. [Возврат объектов](https://www.youtube.com/watch?v=cljHcVNC0XA&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=57)~6:48
 
 58. []()~
 
