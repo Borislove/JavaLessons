@@ -1,3 +1,5 @@
+package lesson_60;
+
 //Урок №60. Java. Статические элементы
 public class MyStatic {
 
