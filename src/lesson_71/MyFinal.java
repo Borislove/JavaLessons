@@ -6,6 +6,7 @@ public class MyFinal {
     final int MAX = 2;
 
     boolean equals(int x) {
+
         if (x == MAX) return true;
         else return false;
     }
