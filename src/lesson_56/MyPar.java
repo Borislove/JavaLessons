@@ -1,3 +1,5 @@
+package lesson_56;
+
 //Урок №56. Объекты в качестве аргументов и параметров
 public class MyPar {
     int a;
