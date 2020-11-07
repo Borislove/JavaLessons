@@ -263,7 +263,7 @@
 
 69. [Динамическая диспетчеризация методов](https://www.youtube.com/watch?v=bSrg85kEr-w&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=69)~12:34
 
-70. []()~
+70. [Абстрактные классы](https://www.youtube.com/watch?v=9ySah5oT6vY&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=70)~8:59
 
 71. []()~
 
