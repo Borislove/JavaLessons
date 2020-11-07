@@ -269,7 +269,7 @@
 
 72. [Обработка исключений в языке Java](https://www.youtube.com/watch?v=f7reICSpffs&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=72)~6:07
 
-73. []()~
+73. [Обработка исключений с помощью try-catch](https://www.youtube.com/watch?v=_HR_19uTvc8&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=73)~5:32
 
 74. []()~
 
