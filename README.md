@@ -261,7 +261,7 @@
 
 68. [Переопределение методов](https://www.youtube.com/watch?v=xmV5Ruabd0w&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=68)~10:13
 
-69. [Переопределение методов](https://www.youtube.com/watch?v=xmV5Ruabd0w&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=68)~10:13
+69. [Динамическая диспетчеризация методов](https://www.youtube.com/watch?v=bSrg85kEr-w&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=69)~12:34
 
 70. []()~
 
