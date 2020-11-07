@@ -267,7 +267,7 @@
 
 71. [Спецификатор final](https://www.youtube.com/watch?v=4QrXiZi7Oxg&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=71)~10:49
 
-72. []()~
+72. [Обработка исключений в языке Java](https://www.youtube.com/watch?v=f7reICSpffs&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=72)~6:07
 
 73. []()~
 
