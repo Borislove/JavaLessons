@@ -243,7 +243,7 @@
 
 59. [Работа с несколькими классами](https://www.youtube.com/watch?v=LBeET1cJi3w&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=59)~6:55
 
-60. []()~
+60. [Статические элементы](https://www.youtube.com/watch?v=FGqiOj6tyEs&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=60)~7:20
 
 61. []()~
 
