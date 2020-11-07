@@ -220,9 +220,9 @@
 
 49. [Переменные экземпляров](https://www.youtube.com/watch?v=n7yxVoGwueY&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=49)~11:55
 
-50. []()~
+50. [Работа со ссылочными типами](https://www.youtube.com/watch?v=pd82GbuY9L8&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=50)~4:32
 
-51. []()~
+51. [Методы класса](https://www.youtube.com/watch?v=LZXKx0jLVAc&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=51)~9:44
 
 52. []()~
 
