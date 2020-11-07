@@ -253,7 +253,7 @@
 
 64. [Вложенные и внутренние классы](https://www.youtube.com/watch?v=xYqAGGbvswE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=64)~10:09
 
-65. []()~
+65. [Наследование и управление доступом](https://www.youtube.com/watch?v=F2xUc1g7UuQ&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=65)~8:05
 
 66. []()~
 
