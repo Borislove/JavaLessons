@@ -265,7 +265,7 @@
 
 70. [Абстрактные классы](https://www.youtube.com/watch?v=9ySah5oT6vY&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=70)~8:59
 
-71. []()~
+71. [Спецификатор final](https://www.youtube.com/watch?v=4QrXiZi7Oxg&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=71)~10:49
 
 72. []()~
 
