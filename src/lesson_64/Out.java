@@ -1,3 +1,5 @@
+package lesson_64;
+
 //Урок №64. Вложенные и внутренние классы
 public class Out {
     private int x;
