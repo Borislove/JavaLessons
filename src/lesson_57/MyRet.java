@@ -1,3 +1,5 @@
+package lesson_57;
+
 //Урок №57. Java. Возврат объектов
 public class MyRet {
     int a;
