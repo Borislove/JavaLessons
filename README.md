@@ -253,21 +253,21 @@
 
 64. [Вложенные и внутренние классы](https://www.youtube.com/watch?v=xYqAGGbvswE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=64)~10:09
 
-65. []()~
+65. [Наследование и управление доступом](https://www.youtube.com/watch?v=F2xUc1g7UuQ&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=65)~8:05
 
-66. []()~
+66. [Ключевое слово super](https://www.youtube.com/watch?v=EeHbsYKYRv0&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=66)~9:45
 
-67. []()~
+67. [Многоуровневая иерархия](https://www.youtube.com/watch?v=ZkbgmWyK9G8&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=67)~6:37
 
-68. []()~
+68. [Переопределение методов](https://www.youtube.com/watch?v=xmV5Ruabd0w&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=68)~10:13
 
-69. []()~
+69. [Динамическая диспетчеризация методов](https://www.youtube.com/watch?v=bSrg85kEr-w&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=69)~12:34
 
-70. []()~
+70. [Абстрактные классы](https://www.youtube.com/watch?v=9ySah5oT6vY&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=70)~8:59
 
-71. []()~
+71. [Спецификатор final](https://www.youtube.com/watch?v=4QrXiZi7Oxg&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=71)~10:49
 
-72. []()~
+72. [Обработка исключений в языке Java](https://www.youtube.com/watch?v=f7reICSpffs&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=72)~6:07
 
 73. []()~
 
