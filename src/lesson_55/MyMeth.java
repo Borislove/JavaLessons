@@ -1,3 +1,5 @@
+package lesson_55;
+
 //Урок №55. Java. Перегрузка методов и конструкторов
 public class MyMeth {
     int a;

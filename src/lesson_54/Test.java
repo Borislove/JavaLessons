@@ -6,7 +6,7 @@ public class Test {
     int b;
 
     void setAB(int a, int b) {
-        this.a = a;
+        this.a = a; //работа с полями класса
         this.b = b;
         System.out.println(" a = " + a + " b = " + b);
     }
