@@ -257,7 +257,7 @@
 
 66. [Ключевое слово super](https://www.youtube.com/watch?v=EeHbsYKYRv0&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=66)~9:45
 
-67. []()~
+67. [Многоуровневая иерархия](https://www.youtube.com/watch?v=ZkbgmWyK9G8&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=67)~6:37
 
 68. []()~
 
