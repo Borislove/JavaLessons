@@ -245,7 +245,7 @@
 
 60. [Статические элементы](https://www.youtube.com/watch?v=FGqiOj6tyEs&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=60)~7:20
 
-61. []()~
+61. [Класс String. Метод main](https://www.youtube.com/watch?v=WJ7f-jI5b3I&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=61)~13:46
 
 62. []()~
 
