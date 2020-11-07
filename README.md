@@ -224,7 +224,7 @@
 
 51. [Методы класса](https://www.youtube.com/watch?v=LZXKx0jLVAc&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=51)~9:44
 
-52. []()~
+52. [Метод с аргументами](https://www.youtube.com/watch?v=r_XLgf3w56w&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=52)~4:51
 
 53. []()~
 
