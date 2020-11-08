@@ -291,7 +291,7 @@
 
 83. [Классы - коллекции. Enumeration](https://www.youtube.com/watch?v=Jl1PEqN2iGE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=83)~6:55
 
-84. []()~
+84. [Классы-оболочки](https://www.youtube.com/watch?v=2dQE8ggfn-M&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=84)~6:44
 
 85. []()~
 
