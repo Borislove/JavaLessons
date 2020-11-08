@@ -1,5 +1,6 @@
 package lesson_75;
 
+//Вложенные операторы try и catch
 public class MyTry {
     public static void main(String[] args) {
 
