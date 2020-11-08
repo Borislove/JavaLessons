@@ -277,7 +277,7 @@
 
 76. [Оператор throw](https://www.youtube.com/watch?v=muQ1Cbm6rpc&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=76)~9:33
 
-77. []()~
+77. [Ключевое слово throws](https://www.youtube.com/watch?v=sqPAx8XHn5g&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=77)~6:44
 
 78. []()~
 
