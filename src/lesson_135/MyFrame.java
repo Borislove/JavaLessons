@@ -15,12 +15,12 @@ public class MyFrame extends JFrame {
         super(str);
         Container c = getContentPane();
         c.setLayout(new FlowLayout());
-        JLabel label = new JLabel("My Label");  //метка
+        JLabel label = new JLabel("MyNumber Label");  //метка
         label.setToolTipText("Label text");   //текст подсказка
         label.setText("Text");
         c.add(label);
 
-        JLabel label2 = new JLabel("My Labe2");  //метка
+        JLabel label2 = new JLabel("MyNumber Labe2");  //метка
         c.add(label2);
 
         field1 = new JTextField("Text");
@@ -46,7 +46,7 @@ public class MyFrame extends JFrame {
     }
 
     public static void main(String[] args) {
-        MyFrame myFrame = new MyFrame("My frame");
+        MyFrame myFrame = new MyFrame("MyNumber frame");
     }
 }
 

@@ -1,9 +1,9 @@
 package lesson_23;
 
-//My n+ progam
+//MyNumber n+ progam
 //Примеры с пробелами
 //#23
-//My second program
+//MyNumber second program
 public class MySecond {
 
     public static void newLine() {

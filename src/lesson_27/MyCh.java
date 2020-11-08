@@ -5,7 +5,7 @@ public class MyCh {
     public static void main(String[] args) {
 
         char ch1 = 'A';
-        System.out.println("My character is " + ch1);
+        System.out.println("MyNumber character is " + ch1);
 
         char ch2 = 41;
         // System.out.println(ch2);
