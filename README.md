@@ -275,7 +275,7 @@
 
 75. [Вложенные операторы try и catch](https://www.youtube.com/watch?v=35bGMfmh8lw&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=75)~11:00
 
-76. []()~
+76. [Оператор throw](https://www.youtube.com/watch?v=muQ1Cbm6rpc&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=76)~9:33
 
 77. []()~
 
