@@ -289,7 +289,7 @@
 
 82. [Классы - коллекции. Hashtable](https://www.youtube.com/watch?v=tw082VTxOZA&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=82)~10:07
 
-83. []()~
+83. [Классы - коллекции. Enumeration](https://www.youtube.com/watch?v=Jl1PEqN2iGE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=83)~6:55
 
 84. []()~
 
