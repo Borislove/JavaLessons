@@ -273,7 +273,7 @@
 
 74. [Несколько операторов catch](https://www.youtube.com/watch?v=kHKTGftqjkc&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=74)~11:12
 
-75. []()~
+75. [Вложенные операторы try и catch](https://www.youtube.com/watch?v=35bGMfmh8lw&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=75)~11:00
 
 76. []()~
 
