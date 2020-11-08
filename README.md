@@ -287,7 +287,7 @@
 
 81. [Классы - коллекции. Stack](https://www.youtube.com/watch?v=805wIpr9-Ic&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=81)~7:52
 
-82. []()~
+82. [Классы - коллекции. Hashtable](https://www.youtube.com/watch?v=tw082VTxOZA&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=82)~10:07
 
 83. []()~
 
