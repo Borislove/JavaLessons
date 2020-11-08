@@ -293,7 +293,7 @@
 
 84. [Классы-оболочки](https://www.youtube.com/watch?v=2dQE8ggfn-M&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=84)~6:44
 
-85. []()~
+85. [Классы-оболочки. Character](https://www.youtube.com/watch?v=xi88LenQGvg&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=85)~10:45
 
 86. []()~
 
