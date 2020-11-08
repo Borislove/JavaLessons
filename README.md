@@ -305,7 +305,7 @@
 
 90. [Импорт пакетов](https://www.youtube.com/watch?v=YCHaYlvhrT8&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=90)~5:01
 
-91. []()~
+91. [Создание и реализация интерфейсов](https://www.youtube.com/watch?v=Wd8qd57snUs&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=91)~5:06
 
 92. []()~
 
