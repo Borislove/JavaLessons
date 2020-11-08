@@ -281,7 +281,7 @@
 
 78. [Блок finally](https://www.youtube.com/watch?v=Hu5_5_5fSqg&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=78)~13:08
 
-79. []()~
+79. [Создание собственных подклассов исключений](https://www.youtube.com/watch?v=7EvqHlWS3SE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=79)~12:13
 
 80. []()~
 
