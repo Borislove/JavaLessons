@@ -271,7 +271,7 @@
 
 73. [Обработка исключений с помощью try-catch](https://www.youtube.com/watch?v=_HR_19uTvc8&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=73)~5:32
 
-74. []()~
+74. [Несколько операторов catch](https://www.youtube.com/watch?v=kHKTGftqjkc&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=74)~11:12
 
 75. []()~
 
