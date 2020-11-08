@@ -297,9 +297,9 @@
 
 86. [Классы-оболочки. BigInteger](https://www.youtube.com/watch?v=irkVDIOh3wo&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=86)~7:06
 
-87. []()~
+87. [Классы-оболочки. BigDecimal](https://www.youtube.com/watch?v=Zgk7JMa97_Y&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=87)~8:49
 
-88. []()~
+88. [Классы-оболочки. Class](https://www.youtube.com/watch?v=bK2FNQMC2Q8&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=88)~7:16
 
 89. []()~
 
