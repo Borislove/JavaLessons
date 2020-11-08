@@ -269,13 +269,13 @@
 
 72. [Обработка исключений в языке Java](https://www.youtube.com/watch?v=f7reICSpffs&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=72)~6:07
 
-73. []()~
+73. [Обработка исключений с помощью try-catch](https://www.youtube.com/watch?v=_HR_19uTvc8&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=73)~5:32
 
-74. []()~
+74. [Несколько операторов catch](https://www.youtube.com/watch?v=kHKTGftqjkc&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=74)~11:12
 
-75. []()~
+75. [Вложенные операторы try и catch](https://www.youtube.com/watch?v=35bGMfmh8lw&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=75)~11:00
 
-76. []()~
+76. [Оператор throw](https://www.youtube.com/watch?v=muQ1Cbm6rpc&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=76)~9:33
 
 77. []()~
 
