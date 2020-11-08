@@ -285,7 +285,7 @@
 
 80. [Vector](https://www.youtube.com/watch?v=ukhlRaNzDcI&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=80)~9:47
 
-81. []()~
+81. [Классы - коллекции. Stack](https://www.youtube.com/watch?v=805wIpr9-Ic&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=81)~7:52
 
 82. []()~
 
