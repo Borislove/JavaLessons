@@ -295,7 +295,7 @@
 
 85. [Классы-оболочки. Character](https://www.youtube.com/watch?v=xi88LenQGvg&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=85)~10:45
 
-86. []()~
+86. [Классы-оболочки. BigInteger](https://www.youtube.com/watch?v=irkVDIOh3wo&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=86)~7:06
 
 87. []()~
 
