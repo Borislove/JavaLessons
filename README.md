@@ -283,7 +283,7 @@
 
 79. [Создание собственных подклассов исключений](https://www.youtube.com/watch?v=7EvqHlWS3SE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=79)~12:13
 
-80. [Создание собственных подклассов исключений](https://www.youtube.com/watch?v=ukhlRaNzDcI&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=80)~9:47
+80. [Vector](https://www.youtube.com/watch?v=ukhlRaNzDcI&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=80)~9:47
 
 81. []()~
 
