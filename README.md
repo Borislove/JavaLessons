@@ -323,7 +323,7 @@
 
 99. [Работа с цветом в апплете](https://www.youtube.com/watch?v=CL9IwgwCcZg&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=99)~10:05
 
-100. []()~
+100. [Работа с JColorChooser](https://www.youtube.com/watch?v=vkXy_tiZZ0g&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=100)~6:32
 
 101. []()~
 
