@@ -309,7 +309,7 @@
 
 92. [Реализация нескольких интерфейсов](https://www.youtube.com/watch?v=6Uh9Tf-jGOo&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=92)~4:36
 
-93. []()~
+93. [Переменные в интерфейсах](https://www.youtube.com/watch?v=HuKYj0kjx8c&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=93)~5:57
 
 94. []()~
 
