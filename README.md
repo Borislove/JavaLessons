@@ -321,7 +321,7 @@
 
 98. [Окно для ввода информации в апплет](https://www.youtube.com/watch?v=fSprY8v51mU&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=98)~7:54
 
-99. []()~
+99. [Работа с цветом в апплете](https://www.youtube.com/watch?v=CL9IwgwCcZg&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=99)~10:05
 
 100. []()~
 
