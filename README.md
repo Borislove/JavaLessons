@@ -307,7 +307,7 @@
 
 91. [Создание и реализация интерфейсов](https://www.youtube.com/watch?v=Wd8qd57snUs&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=91)~5:06
 
-92. []()~
+92. [Реализация нескольких интерфейсов](https://www.youtube.com/watch?v=6Uh9Tf-jGOo&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=92)~4:36
 
 93. []()~
 
