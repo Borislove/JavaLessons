@@ -315,7 +315,7 @@
 
 95. [Апплеты Java SDK](https://www.youtube.com/watch?v=V7a7NbsJPG4&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=95)~7:10
 
-96. []()~
+96. [Создание первого апплета](https://www.youtube.com/watch?v=iy9gy5RO6as&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=96)~7:09
 
 97. []()~
 
