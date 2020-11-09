@@ -327,7 +327,7 @@
 
 101. [Работа со шрифтами](https://www.youtube.com/watch?v=rdCjiQKUxWo&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=101)~7:11
 
-102. []()~
+102. [Рисование линий и прямоугольников](https://www.youtube.com/watch?v=aXtd79yJ8GI&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=102)~7:24
 
 103. []()~
 
