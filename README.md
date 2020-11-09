@@ -311,7 +311,7 @@
 
 93. [Переменные в интерфейсах](https://www.youtube.com/watch?v=HuKYj0kjx8c&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=93)~5:57
 
-94. []()~
+94. [Расширение интерфейсов](https://www.youtube.com/watch?v=o5a6mCK56IM&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=94)~4:44
 
 95. []()~
 
