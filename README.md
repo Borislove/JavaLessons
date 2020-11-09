@@ -313,11 +313,11 @@
 
 94. [Расширение интерфейсов](https://www.youtube.com/watch?v=o5a6mCK56IM&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=94)~4:44
 
-95. []()~
+95. [Апплеты Java SDK](https://www.youtube.com/watch?v=V7a7NbsJPG4&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=95)~7:10
 
-96. []()~
+96. [Создание первого апплета](https://www.youtube.com/watch?v=iy9gy5RO6as&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=96)~7:09
 
-97. []()~
+97. [Вывод текстовых строк в апплете](https://www.youtube.com/watch?v=sVXOhfMth_w&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=97)~8:05
 
 98. []()~
 
