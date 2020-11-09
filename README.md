@@ -319,7 +319,7 @@
 
 97. [Вывод текстовых строк в апплете](https://www.youtube.com/watch?v=sVXOhfMth_w&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=97)~8:05
 
-98. []()~
+98. [Окно для ввода информации в апплет](https://www.youtube.com/watch?v=fSprY8v51mU&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=98)~7:54
 
 99. []()~
 
