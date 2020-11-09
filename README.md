@@ -329,7 +329,7 @@
 
 102. [Рисование линий и прямоугольников](https://www.youtube.com/watch?v=aXtd79yJ8GI&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=102)~7:24
 
-103. []()~
+103. [Рисование овалов и дуг](https://www.youtube.com/watch?v=4FXJL3KGVI4&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=103)~9:04
 
 104. []()~
 
