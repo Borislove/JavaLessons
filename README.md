@@ -317,7 +317,7 @@
 
 96. [Создание первого апплета](https://www.youtube.com/watch?v=iy9gy5RO6as&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=96)~7:09
 
-97. []()~
+97. [Вывод текстовых строк в апплете](https://www.youtube.com/watch?v=sVXOhfMth_w&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=97)~8:05
 
 98. []()~
 
