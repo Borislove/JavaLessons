@@ -325,7 +325,7 @@
 
 100. [Работа с JColorChooser](https://www.youtube.com/watch?v=vkXy_tiZZ0g&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=100)~6:32
 
-101. []()~
+101. [Работа со шрифтами](https://www.youtube.com/watch?v=rdCjiQKUxWo&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=101)~7:11
 
 102. []()~
 
