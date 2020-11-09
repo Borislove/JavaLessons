@@ -313,7 +313,7 @@
 
 94. [Расширение интерфейсов](https://www.youtube.com/watch?v=o5a6mCK56IM&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=94)~4:44
 
-95. []()~
+95. [Апплеты Java SDK](https://www.youtube.com/watch?v=V7a7NbsJPG4&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=95)~7:10
 
 96. []()~
 
