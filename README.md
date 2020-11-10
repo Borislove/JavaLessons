@@ -351,7 +351,7 @@
 
 113. [Буферизированные байтовые потоки](https://www.youtube.com/watch?v=tCEuyVtweUY&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=113)~7:59
 
-114. []()~
+114. [Символьные потоки. FileReader](https://www.youtube.com/watch?v=MIxf_jDRJZw&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=114)~7:49
 
 115. []()~
 
