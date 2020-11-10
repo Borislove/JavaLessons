@@ -333,7 +333,7 @@
 
 104. [Рисование многоугольников](https://www.youtube.com/watch?v=WXnJZmri6Vc&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=104)~9:21
 
-105. []()~
+105. [Java. 2D](https://www.youtube.com/watch?v=xaGfzUsj4fI&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=105)~12:01
 
 106. []()~
 
