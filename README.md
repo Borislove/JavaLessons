@@ -345,7 +345,7 @@
 
 110. [Файловые потоки. FileOutputStream](https://www.youtube.com/watch?v=5zenggckG_Q&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=110)~6:52
 
-111. []()~
+111. [Файловые потоки. ByteArrayInputStream](https://www.youtube.com/watch?v=rt7yzovVKNM&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=111)~5:26
 
 112. []()~
 
