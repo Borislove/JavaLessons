@@ -343,7 +343,7 @@
 
 109. [Файловые потоки. FileInputStream](https://www.youtube.com/watch?v=04ctEraMTPQ&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=109)~6:27
 
-110. []()~
+110. [Файловые потоки. FileOutputStream](https://www.youtube.com/watch?v=5zenggckG_Q&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=110)~6:52
 
 111. []()~
 
