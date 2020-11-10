@@ -349,7 +349,7 @@
 
 112. [Файловые потоки. ByteArrayOutputStream](https://www.youtube.com/watch?v=GjDf3IGGgzA&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=112)~7:46
 
-113. []()~
+113. [Буферизированные байтовые потоки](https://www.youtube.com/watch?v=tCEuyVtweUY&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=113)~7:59
 
 114. []()~
 
