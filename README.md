@@ -337,7 +337,7 @@
 
 106. [Работа с файлами. Класс File](https://www.youtube.com/watch?v=6784hJzL0eE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=106)~8:47
 
-107. []()~
+107. [Работа с каталогами](https://www.youtube.com/watch?v=qoStKk7xcYI&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=107)~7:45
 
 108. []()~
 
