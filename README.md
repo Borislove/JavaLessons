@@ -339,7 +339,7 @@
 
 107. [Работа с каталогами](https://www.youtube.com/watch?v=qoStKk7xcYI&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=107)~7:45
 
-108. []()~
+108. [Фильтрация имен файлов](https://www.youtube.com/watch?v=MdVTzZZq_3g&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=108)~6:59
 
 109. []()~
 
