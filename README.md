@@ -335,7 +335,7 @@
 
 105. [Java. 2D](https://www.youtube.com/watch?v=xaGfzUsj4fI&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=105)~12:01
 
-106. []()~
+106. [Работа с файлами. Класс File](https://www.youtube.com/watch?v=6784hJzL0eE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=106)~8:47
 
 107. []()~
 
