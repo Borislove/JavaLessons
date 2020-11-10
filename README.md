@@ -341,7 +341,7 @@
 
 108. [Фильтрация имен файлов](https://www.youtube.com/watch?v=MdVTzZZq_3g&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=108)~6:59
 
-109. []()~
+109. [Файловые потоки. FileInputStream](https://www.youtube.com/watch?v=04ctEraMTPQ&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=109)~6:27
 
 110. []()~
 
