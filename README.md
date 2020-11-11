@@ -353,7 +353,7 @@
 
 114. [Символьные потоки. FileReader](https://www.youtube.com/watch?v=MIxf_jDRJZw&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=114)~7:49
 
-115. []()~
+115. [Символьные потоки. FileWriter](https://www.youtube.com/watch?v=iwGIZEL4P_Y&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=115)~7:49
 
 116. []()~
 
