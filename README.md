@@ -377,7 +377,7 @@
 
 126. [Совместный доступ к объектам (Часть 1)](https://www.youtube.com/watch?v=0s_-YiPqLX4&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=127)~5:59
 
-127. []()~
+127. [Совместный доступ к объектам (Часть 2)](https://www.youtube.com/watch?v=CTkCIeM7ANY&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=128)~9:19
 
 128. []()~
 
