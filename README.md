@@ -365,7 +365,7 @@
 
 120. [Восстановление объектов в памяти](https://www.youtube.com/watch?v=8r5KTTYbPL4&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=120)~9:05
 
-121. []()~
+121. [Сериализация вложенных объектов](https://www.youtube.com/watch?v=yZcHRErzzG8&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=121)~6:20
 
 122. []()~
 
