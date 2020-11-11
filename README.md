@@ -373,7 +373,7 @@
 
 124. [Остановка подпроцессов](https://www.youtube.com/watch?v=p7WaGa4djso&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=124)~7:47
 
-125. []()~
+125. [Синхронизация подпроцессов](https://www.youtube.com/watch?v=FPN7gadNT4A&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=125)~6:50
 
 126. []()~
 
