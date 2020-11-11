@@ -7,7 +7,7 @@ public class MyFinally {
 
         try {
             System.out.println("In First method");
-            throw new RuntimeException("Test");
+            throw new RuntimeException("Info");
         } finally {
             System.out.println("finally for First method");
         }

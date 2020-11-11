@@ -5,8 +5,8 @@ public class MyString {
 
     public static void main(String[] args) {
 
-        String st = "lesson_54.Test";
-        String st2 = "lesson_54.Test";
+        String st = "lesson_54.Info";
+        String st2 = "lesson_54.Info";
         String st1 = "It" + " is" + " my" + " string";
 
         System.out.println(st);

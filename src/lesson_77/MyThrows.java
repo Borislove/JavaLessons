@@ -5,7 +5,7 @@ public class MyThrows {
 
     static void one() throws IllegalAccessException {
 
-        throw new IllegalAccessException("Test");
+        throw new IllegalAccessException("Info");
     }
 
     public static void main(String[] args) {
