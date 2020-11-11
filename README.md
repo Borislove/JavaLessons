@@ -379,7 +379,7 @@
 
 127. [Совместный доступ к объектам (Часть 2)](https://www.youtube.com/watch?v=CTkCIeM7ANY&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=128)~9:19
 
-128. []()~
+128. [Скачиваем и устанавливаем NetBeans](https://www.youtube.com/watch?v=t-QItmdZe5o&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=129)~4:32
 
 129. []()~
 
