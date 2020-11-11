@@ -375,7 +375,7 @@
 
 125. [Синхронизация подпроцессов](https://www.youtube.com/watch?v=FPN7gadNT4A&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=125)~6:50
 
-126. []()~
+126. [Совместный доступ к объектам (Часть 1)](https://www.youtube.com/watch?v=0s_-YiPqLX4&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=127)~5:59
 
 127. []()~
 
