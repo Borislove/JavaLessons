@@ -369,7 +369,7 @@
 
 122. [Запуск подпроцессов. Класс Thread](https://www.youtube.com/watch?v=AVjl-XvGoH0&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=122)~6:40
 
-123. []()~
+123. [Запуск подпроцессов. Интерфейс Runnable](https://www.youtube.com/watch?v=XeboUyOXiBk&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=123)~4:28
 
 124. []()~
 
