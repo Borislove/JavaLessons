@@ -357,7 +357,7 @@
 
 116. []()~
 
-117. []()~
+117. [Символьные потоки. CharArrayWriter](https://www.youtube.com/watch?v=m9fS0Yw3u6Y&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=116)~6:04
 
 118. []()~
 
