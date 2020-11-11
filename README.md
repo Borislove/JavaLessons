@@ -367,7 +367,7 @@
 
 121. [Сериализация вложенных объектов](https://www.youtube.com/watch?v=yZcHRErzzG8&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=121)~6:20
 
-122. []()~
+122. [Запуск подпроцессов. Класс Thread](https://www.youtube.com/watch?v=AVjl-XvGoH0&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=122)~6:40
 
 123. []()~
 
