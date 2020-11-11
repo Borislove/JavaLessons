@@ -371,7 +371,7 @@
 
 123. [Запуск подпроцессов. Интерфейс Runnable](https://www.youtube.com/watch?v=XeboUyOXiBk&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=123)~4:28
 
-124. []()~
+124. [Остановка подпроцессов](https://www.youtube.com/watch?v=p7WaGa4djso&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=124)~7:47
 
 125. []()~
 
