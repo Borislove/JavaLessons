@@ -355,7 +355,7 @@
 
 115. [Символьные потоки. FileWriter](https://www.youtube.com/watch?v=iwGIZEL4P_Y&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=115)~7:49
 
-116. []()~
+116. [Символьные потоки. CharArrayReader](https://www.youtube.com/watch?v=W6LrkwQSEFE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=117)~7:32
 
 117. [Символьные потоки. CharArrayWriter](https://www.youtube.com/watch?v=m9fS0Yw3u6Y&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=116)~6:04
 
