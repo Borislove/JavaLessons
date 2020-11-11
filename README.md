@@ -361,9 +361,9 @@
 
 118. [Символьные потоки. PushBackReader](https://www.youtube.com/watch?v=W1TBlJTErHs&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=118)~6:05
 
-119. []()~
+119. [Сериализация. ObjectOutputStream](https://www.youtube.com/watch?v=u_6kKB2dPas&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=119)~7:34
 
-120. []()~
+120. [Восстановление объектов в памяти](https://www.youtube.com/watch?v=8r5KTTYbPL4&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=120)~9:05
 
 121. []()~
 
