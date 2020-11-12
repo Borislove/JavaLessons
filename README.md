@@ -375,15 +375,15 @@
 
 125. [Синхронизация подпроцессов](https://www.youtube.com/watch?v=FPN7gadNT4A&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=125)~6:50
 
-126. [Совместный доступ к объектам (Часть 1)](https://www.youtube.com/watch?v=0s_-YiPqLX4&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=127)~5:59
+126. [Пример синхронизации подпроцессов](https://www.youtube.com/watch?v=_F5LdyyAq8E&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=126)~5:00
 
-127. [Совместный доступ к объектам (Часть 2)](https://www.youtube.com/watch?v=CTkCIeM7ANY&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=128)~9:19
+127. [Совместный доступ к объектам (Часть 1)](https://www.youtube.com/watch?v=0s_-YiPqLX4&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=127)~5:59
 
-128. [Скачиваем и устанавливаем NetBeans](https://www.youtube.com/watch?v=t-QItmdZe5o&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=129)~4:32
+128. [Совместный доступ к объектам (Часть 2)](https://www.youtube.com/watch?v=CTkCIeM7ANY&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=128)~9:19
 
-129. []()~
+129. [Скачиваем и устанавливаем NetBeans](https://www.youtube.com/watch?v=t-QItmdZe5o&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=129)~4:32
 
-130. []()~
+130. [Создание первого проекта](https://www.youtube.com/watch?v=x192kAqqlTY&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=130)~10:02
 
 131. []()~
 
