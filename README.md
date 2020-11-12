@@ -385,7 +385,7 @@
 
 130. [Создание первого проекта](https://www.youtube.com/watch?v=x192kAqqlTY&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=130)~10:02
 
-131. []()~
+131. [Работа с JFrame](https://www.youtube.com/watch?v=xRm75icfkJE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=131)~7:36
 
 132. []()~
 
