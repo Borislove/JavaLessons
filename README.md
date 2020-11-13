@@ -389,15 +389,15 @@
 
 132. [Рисование в JFrame](https://www.youtube.com/watch?v=Wx-VmvxuQDs&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=132)~4:04
 
-133. []()~
+133. [Работаем с GUI. Метки](https://www.youtube.com/watch?v=J6R-2IYbA_g&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=133)~6:35
 
-134. []()~
+134. [Модель обработки событий](https://www.youtube.com/watch?v=Dlc1g2weA4g&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=134)~7:49
 
-135. []()~
+135. [JTextField и JPasswordField](https://www.youtube.com/watch?v=3VNOYoO15WM&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=135)~8:19
 
-136. []()~
+136. [Работаем с GUI. Кнопки](https://www.youtube.com/watch?v=iKjC657VOQ0&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=136)~5:29
 
-137. []()~
+137. [Работаем с GUI. Флажки](https://www.youtube.com/watch?v=e_NTzoEvnYU&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=137)~6:24
 
 138. []()~
 
