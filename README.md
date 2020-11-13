@@ -401,7 +401,7 @@
 
 138. [Работаем с GUI. Переключатели](https://www.youtube.com/watch?v=Ci5pR5F8wiE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=138)~9:02
 
-139. []()~
+139. [Работаем с GUI. Выпадающий список](https://www.youtube.com/watch?v=7NVSHzIiCv0&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=139)~5:55
 
 140. []()~
 
