@@ -389,7 +389,7 @@
 
 132. [Рисование в JFrame](https://www.youtube.com/watch?v=Wx-VmvxuQDs&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=132)~4:04
 
-133. []()~
+133. [Работаем с GUI. Метки](https://www.youtube.com/watch?v=J6R-2IYbA_g&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=133)~6:35
 
 134. []()~
 
