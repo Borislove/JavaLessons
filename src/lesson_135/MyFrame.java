@@ -35,7 +35,6 @@ public class MyFrame extends JFrame {
         FieldHandler handler = new FieldHandler();
         field1.addActionListener(handler);
         field2.addActionListener(handler);
-
     }
 
     class FieldHandler implements ActionListener {
