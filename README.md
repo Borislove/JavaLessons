@@ -399,7 +399,7 @@
 
 137. [Работаем с GUI. Флажки](https://www.youtube.com/watch?v=e_NTzoEvnYU&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=137)~6:24
 
-138. []()~
+138. [Работаем с GUI. Переключатели](https://www.youtube.com/watch?v=Ci5pR5F8wiE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=138)~9:02
 
 139. []()~
 
