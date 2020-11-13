@@ -393,7 +393,7 @@
 
 134. [Модель обработки событий](https://www.youtube.com/watch?v=Dlc1g2weA4g&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=134)~7:49
 
-135. []()~
+135. [JTextField и JPasswordField](https://www.youtube.com/watch?v=3VNOYoO15WM&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=135)~8:19
 
 136. []()~
 
