@@ -391,7 +391,7 @@
 
 133. [Работаем с GUI. Метки](https://www.youtube.com/watch?v=J6R-2IYbA_g&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=133)~6:35
 
-134. []()~
+134. [Модель обработки событий](https://www.youtube.com/watch?v=Dlc1g2weA4g&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=134)~7:49
 
 135. []()~
 
