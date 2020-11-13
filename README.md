@@ -387,7 +387,7 @@
 
 131. [Работа с JFrame](https://www.youtube.com/watch?v=xRm75icfkJE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=131)~7:36
 
-132. []()~
+132. [Рисование в JFrame](https://www.youtube.com/watch?v=Wx-VmvxuQDs&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=132)~4:04
 
 133. []()~
 
