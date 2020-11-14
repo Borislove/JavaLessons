@@ -407,7 +407,7 @@
 
 141. [Список с множественным выбором](https://www.youtube.com/watch?v=j9oLSY7UV58&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=141)~4:34
 
-142. []()~
+142. [Обработка событий мыши](https://www.youtube.com/watch?v=FEv_KKxXauw&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=142)~9:05
 
 143. []()~
 
