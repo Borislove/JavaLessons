@@ -403,7 +403,7 @@
 
 139. [Работаем с GUI. Выпадающий список](https://www.youtube.com/watch?v=7NVSHzIiCv0&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=139)~5:55
 
-140. []()~
+140. [Список с единственным выбором](https://www.youtube.com/watch?v=HfSknfl66P0&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=140)~7:32
 
 141. []()~
 
