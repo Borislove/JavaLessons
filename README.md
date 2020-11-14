@@ -405,7 +405,7 @@
 
 140. [Список с единственным выбором](https://www.youtube.com/watch?v=HfSknfl66P0&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=140)~7:32
 
-141. []()~
+141. [Список с множественным выбором](https://www.youtube.com/watch?v=j9oLSY7UV58&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=141)~4:34
 
 142. []()~
 
