@@ -409,7 +409,7 @@
 
 142. [Обработка событий мыши](https://www.youtube.com/watch?v=FEv_KKxXauw&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=142)~9:05
 
-143. []()~
+143. [Классы - адаптеры (Часть 1)](https://www.youtube.com/watch?v=TzNBKIjkKKM&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=143)~5:05
 
 144. []()~
 
