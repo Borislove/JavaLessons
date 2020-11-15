@@ -415,7 +415,7 @@
 
 145. [Обработка событий клавиатуры](https://www.youtube.com/watch?v=zT4T13NgYr4&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=145)~4:52
 
-146. []()~
+146. [Менеджеры расположения. FlowLayout](https://www.youtube.com/watch?v=3fA8FRIBQ68&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=146)~5:47
 
 147. []()~
 
