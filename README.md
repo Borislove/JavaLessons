@@ -413,7 +413,7 @@
 
 144. [Классы - адаптеры (Часть 2)](https://www.youtube.com/watch?v=t1u4fYl6CpI&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=144)~6:45
 
-145. []()~
+145. [Обработка событий клавиатуры](https://www.youtube.com/watch?v=zT4T13NgYr4&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=145)~4:52
 
 146. []()~
 
