@@ -421,7 +421,7 @@
 
 148. [Менеджеры расположения. GridLayout](https://www.youtube.com/watch?v=xaXuuuN9ylk&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=148)~3:22
 
-149. []()~
+149. [JPanel](https://www.youtube.com/watch?v=Zzt_BoceDmI&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=149)~5:03
 
 150. []()~
 
