@@ -411,7 +411,7 @@
 
 143. [Классы - адаптеры (Часть 1)](https://www.youtube.com/watch?v=TzNBKIjkKKM&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=143)~5:05
 
-144. []()~
+144. [Классы - адаптеры (Часть 2)](https://www.youtube.com/watch?v=t1u4fYl6CpI&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=144)~6:45
 
 145. []()~
 
