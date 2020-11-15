@@ -417,7 +417,7 @@
 
 146. [Менеджеры расположения. FlowLayout](https://www.youtube.com/watch?v=3fA8FRIBQ68&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=146)~5:47
 
-147. []()~
+147. [Менеджеры расположения. BorderLayout](https://www.youtube.com/watch?v=_hkEabR74Qg&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=147)~4:47
 
 148. []()~
 
