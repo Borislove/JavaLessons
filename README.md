@@ -419,7 +419,7 @@
 
 147. [Менеджеры расположения. BorderLayout](https://www.youtube.com/watch?v=_hkEabR74Qg&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=147)~4:47
 
-148. []()~
+148. [Менеджеры расположения. GridLayout](https://www.youtube.com/watch?v=xaXuuuN9ylk&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=148)~3:22
 
 149. []()~
 
