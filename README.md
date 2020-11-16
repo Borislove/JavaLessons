@@ -433,7 +433,7 @@
 
 154. [Классы окон](https://www.youtube.com/watch?v=3oazzTpN4NY&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=154)~4:58
 
-155. []()~
+155. [Программы как приложения и как апплеты](https://www.youtube.com/watch?v=6WQ7IqUZydk&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=155)~12:17
 
 156. []()~
 
