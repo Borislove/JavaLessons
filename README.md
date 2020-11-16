@@ -429,7 +429,7 @@
 
 152. [Использование JPanel для обработки событий](https://www.youtube.com/watch?v=TRyUQeqPAJI&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=152)~5:24
 
-153. []()~
+153. [Ползунок](https://www.youtube.com/watch?v=lTC_74aSKDU&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=153)~8:26
 
 154. []()~
 
