@@ -425,7 +425,7 @@
 
 150. [JTextArea](https://www.youtube.com/watch?v=LQZsH1GMHbQ&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=150)~5:06
 
-151. []()~
+151. [Использование JPanel](https://www.youtube.com/watch?v=g8srwxlsIyw&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=151)~11:45
 
 152. []()~
 
