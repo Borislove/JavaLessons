@@ -431,7 +431,7 @@
 
 153. [Ползунок](https://www.youtube.com/watch?v=lTC_74aSKDU&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=153)~8:26
 
-154. []()~
+154. [Классы окон](https://www.youtube.com/watch?v=3oazzTpN4NY&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=154)~4:58
 
 155. []()~
 
