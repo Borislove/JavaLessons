@@ -427,7 +427,7 @@
 
 151. [Использование JPanel](https://www.youtube.com/watch?v=g8srwxlsIyw&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=151)~11:45
 
-152. []()~
+152. [Использование JPanel для обработки событий](https://www.youtube.com/watch?v=TRyUQeqPAJI&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=152)~5:24
 
 153. []()~
 
