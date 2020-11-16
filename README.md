@@ -423,7 +423,7 @@
 
 149. [JPanel](https://www.youtube.com/watch?v=Zzt_BoceDmI&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=149)~5:03
 
-150. []()~
+150. [JTextArea](https://www.youtube.com/watch?v=LQZsH1GMHbQ&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=150)~5:06
 
 151. []()~
 
