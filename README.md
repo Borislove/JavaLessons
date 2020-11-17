@@ -441,7 +441,7 @@
 
 158. [Работа с меню. Создание меню (Часть 3)](https://www.youtube.com/watch?v=f00xLUe62II&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=158)~16:01
 
-159. []()~
+159. [Работа с меню. Всплывающее меню](https://www.youtube.com/watch?v=sxU-EB4ruM4&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=159)~12:40
 
 160. []()~
 
