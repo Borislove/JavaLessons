@@ -437,7 +437,7 @@
 
 156. [Работа с меню. Создание меню (Часть 1)](https://www.youtube.com/watch?v=m-Dx1JcXbnQ&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=156)~6:02
 
-157. []()~
+157. [Работа с меню. Создание меню (Часть 2)](https://www.youtube.com/watch?v=vXcyDj0O1es&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=157)~8:40
 
 158. []()~
 
