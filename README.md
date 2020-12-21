@@ -447,7 +447,7 @@
 
 161. [Работа с многодокументным интерфейсом](https://www.youtube.com/watch?v=RZ76u6OrIoo&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=161)~6:53
 
-162. []()~
+162. [Работа с меню в главном окне](https://www.youtube.com/watch?v=u4ivjgegpMs&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=162)~12:01
 
 163. []()~
 
