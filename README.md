@@ -448,6 +448,7 @@
 161. [Работа с многодокументным интерфейсом](https://www.youtube.com/watch?v=RZ76u6OrIoo&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=161)~6:53
 
 162. [Работа с меню в главном окне](https://www.youtube.com/watch?v=u4ivjgegpMs&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=162)~12:01
+     [Создаем главное окно класс MainWindow](https://www.youtube.com/watch?v=Nj0JlwiZBpU&list=PLnbQh4j9gZkK5pbPw7LOxCvLmTi_XYc5O&index=163)~10:55
 
 163. []()~
 
