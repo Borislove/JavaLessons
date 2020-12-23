@@ -27,8 +27,6 @@ public class MainWindow extends javax.swing.JFrame {
         help_about = new javax.swing.JMenuItem();
         help_on_typist = new javax.swing.JMenuItem();
 
-
-
         file_menu.setMnemonic('F');
         file_menu.setText("File");
 
@@ -65,6 +63,22 @@ public class MainWindow extends javax.swing.JFrame {
 
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
+
+        //выход при нажатии file, exit-->yes
+        file_exit.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                file_exitActionPerformed(evt);
+            }
+        });
+    }
+
+    //эвент для кнопочки file-->exit
+    private void file_exitActionPerformed(java.awt.event.ActionEvent evt) {
+        int result = JOptionPane.showConfirmDialog(this, "Do you really want to exit?", "Inforamtion", JOptionPane.YES_NO_OPTION, JOptionPane.QUESTION_MESSAGE);
+        if (result != JOptionPane.NO_OPTION) {
+            dispose();
+            System.exit(0);
+        }
     }
 
     public static void main(String args[]) {
