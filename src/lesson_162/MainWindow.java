@@ -1,6 +1,7 @@
 package lesson_162;
 
 import javax.swing.*;
+import java.awt.*;
 
 //Урок №162. Работа с меню в главном окне
 public class MainWindow extends javax.swing.JFrame {
@@ -14,6 +15,8 @@ public class MainWindow extends javax.swing.JFrame {
 
     public MainWindow() {
         initComponents();
+        this.setSize(500, 400);
+        this.centered();      // TODO: 23.12.2020   setLocationRelativeTo(null);
     }
 
     @SuppressWarnings("unchecked")
@@ -62,7 +65,7 @@ public class MainWindow extends javax.swing.JFrame {
         pack();
 
         setDefaultCloseOperation(EXIT_ON_CLOSE);
-        setLocationRelativeTo(null);
+        //  setLocationRelativeTo(null);
 
         //выход при нажатии file, exit-->yes
         file_exit.addActionListener(new java.awt.event.ActionListener() {
@@ -79,6 +82,19 @@ public class MainWindow extends javax.swing.JFrame {
             dispose();
             System.exit(0);
         }
+    }
+
+    //центрирование окна
+    private void centered() {
+        Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
+        Dimension frameSize = this.getSize();
+        if (frameSize.height > screenSize.height) {
+            frameSize.height = screenSize.height;
+        }
+        if (frameSize.width > screenSize.width) {
+            frameSize.width = screenSize.width;
+        }
+        this.setLocation((screenSize.width - frameSize.width) / 2, (screenSize.height - frameSize.height) / 2);
     }
 
     public static void main(String args[]) {
