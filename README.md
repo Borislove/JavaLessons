@@ -450,7 +450,7 @@
 162. [Работа с меню в главном окне](https://www.youtube.com/watch?v=u4ivjgegpMs&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=162)~12:01
      [Создаем главное окно класс MainWindow](https://www.youtube.com/watch?v=Nj0JlwiZBpU&list=PLnbQh4j9gZkK5pbPw7LOxCvLmTi_XYc5O&index=163)~10:55
 
-163. []()~
+163. [Добавление слушателя событий окна. MDI](https://www.youtube.com/watch?v=BADPgGvKN2I&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=163)~9:34
 
 164. []()~
 
