@@ -456,7 +456,7 @@
 
 165. [Работа над интерфейсом класса ExerciseGUI](https://www.youtube.com/watch?v=r3gFbtOQles&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=165)~9:17
 
-166. []()~
+166. [Создание класса и работа с ним в классе ExerciseGUI](https://www.youtube.com/watch?v=NagrpBsstNo&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=166)~8:19
 
 167. []()~
 
