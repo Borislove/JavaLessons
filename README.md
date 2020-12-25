@@ -452,7 +452,7 @@
 
 163. [Добавление слушателя событий окна. MDI](https://www.youtube.com/watch?v=BADPgGvKN2I&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=163)~9:34
 
-164. []()~
+164. [Создание класса ExerciseGUI](https://www.youtube.com/watch?v=qQPntv2D0M4&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=164)~10:18
 
 165. []()~
 
