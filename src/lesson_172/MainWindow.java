@@ -12,10 +12,11 @@ public class MainWindow extends JFrame {
         exercise = new ExerciseGUI();
         exercise.pack();
         exercise.validate();
-        exercise.reveal(new Lessons("Lesson 1", "Please type", "asdfghjkl"));
+        exercise.reveal(new Lessons("Lesson 1", "Please type", "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"));
         jDesktopPane1.add(exercise);
         exercise.setResizable(true);
         exercise.setVisible(true);
+        centered();
 
     }
 
