@@ -468,7 +468,7 @@
 
 171. [Обработка нажатых символов](https://www.youtube.com/watch?v=cWmqPyJ6Ib4&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=171)~9:00
 
-172. []()~
+172. [Класс ExerciseGUI. Статистика](https://www.youtube.com/watch?v=75kdmcxPJbI&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=172)~6:25
 
 173. []()~
 
