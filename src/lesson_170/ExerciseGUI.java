@@ -1,9 +1,11 @@
-package lesson_168;
+package lesson_170;
 
 
+import javax.swing.*;
 import javax.swing.text.BadLocationException;
 import javax.swing.text.DefaultHighlighter;
 import java.awt.*;
+import java.awt.event.KeyEvent;
 
 public class ExerciseGUI extends javax.swing.JInternalFrame {
     private Lessons lessons;
@@ -27,12 +29,23 @@ public class ExerciseGUI extends javax.swing.JInternalFrame {
     private void show_typing_cursor() throws BadLocationException {
         reference_text_area.setCaretPosition(cursor);
         reference_text_area.getHighlighter().removeAllHighlights(); //очистили все подсветки
-        reference_text_area.getHighlighter().addHighlight(cursor,cursor+1,painter);
+        reference_text_area.getHighlighter().addHighlight(cursor, cursor + 1, painter);
     }
 
-    //169
-    private void handle_key_press(char char_struck){
+    private void handle_key_press(char char_struck) {
+        handle_key_press_lesson(char_struck);
+        if (progress == reference_text_area.getText().length()) {
+            JOptionPane.showMessageDialog(this, "Finish", "Information", JOptionPane.YES_OPTION);
+        }
+    }
 
+    private void handle_key_press_lesson(char char_struck) {
+        if (progress < reference_text_area.getText().length()) {
+            char char_wanted = reference_text_area.getText().charAt(progress);
+            if (char_struck == char_wanted) entry_text_area.append(reference_text_area.getText());
+            progress++;
+            cursor++;
+        }
     }
 
     @SuppressWarnings("unchecked")
@@ -53,6 +66,20 @@ public class ExerciseGUI extends javax.swing.JInternalFrame {
         descr_label = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+
+        addKeyListener(new java.awt.event.KeyAdapter() {
+            public void keyPressed(java.awt.event.KeyEvent evt) {
+                formKeyPressed(evt);
+            }
+
+            public void keyReleased(java.awt.event.KeyEvent evt) {
+                formKeyReleased(evt);
+            }
+
+            public void keyTyped(java.awt.event.KeyEvent evt) {
+                formKeyTyped(evt);
+            }
+        });
 
         restart_button.setText("Restart");
 
@@ -104,8 +131,8 @@ public class ExerciseGUI extends javax.swing.JInternalFrame {
                         .addGap(0, 0, Short.MAX_VALUE)
         );
 
-        text_panel.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
-        text_panel.setLayout(new java.awt.CardLayout(10, 10));
+        text_panel.setBorder(javax.swing.BorderFactory.createLineBorder(new Color(0, 0, 0)));
+        text_panel.setLayout(new CardLayout(10, 10));
 
         dril_panel.setOrientation(javax.swing.JSplitPane.VERTICAL_SPLIT);
 
@@ -175,11 +202,28 @@ public class ExerciseGUI extends javax.swing.JInternalFrame {
         );
 
         pack();
-    }// </editor-fold>
+    }
 
-    /**
-     * @param args the command line arguments
-     */
+    private void formKeyTyped(java.awt.event.KeyEvent evt) {
+        if ((evt.getKeyCode() == KeyEvent.VK_LEFT) || (evt.getKeyCode() == KeyEvent.VK_RIGHT) || (evt.getKeyCode() == KeyEvent.VK_UP) || (evt.getKeyCode() == KeyEvent.VK_DOWN)) {
+            entry_text_area.setCaretPosition(cursor);
+        }
+    }
+
+    private void formKeyPressed(java.awt.event.KeyEvent evt) {
+        // TODO add your handling code here:
+    }
+
+    private void formKeyReleased(java.awt.event.KeyEvent evt) {
+        //проверка обычной клавиши
+        if (!evt.isControlDown()) {
+            char key_pressed = evt.getKeyChar();
+            int keycode = evt.getKeyCode();
+            handle_key_press(key_pressed);
+            evt.consume();
+        }
+    }
+
     public static void main(String args[]) {
         /* Set the Nimbus look and feel */
         //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
@@ -205,7 +249,7 @@ public class ExerciseGUI extends javax.swing.JInternalFrame {
         //</editor-fold>
 
         /* Create and display the form */
-        java.awt.EventQueue.invokeLater(new Runnable() {
+        EventQueue.invokeLater(new Runnable() {
             public void run() {
                 new ExerciseGUI().setVisible(true);
             }

@@ -1,12 +1,9 @@
-package lesson_168;
+package lesson_170;
 
 import javax.swing.*;
 import java.awt.*;
 
-//Урок №168. Java. Работа с событиями клавиатуры
-/*запрет на редактирование, перенос строки   95 ExerciseGUI*/
-//подсветка DefaultHighlighter
-//Урок №169. Создание методов для проверки правильности
+//Урок №170.  Добавление слушателя клавиатуры.
 public class MainWindow extends JFrame {
     private ExerciseGUI exercise;
 
