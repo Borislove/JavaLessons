@@ -470,7 +470,7 @@
 
 172. [Класс ExerciseGUI. Статистика](https://www.youtube.com/watch?v=75kdmcxPJbI&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=172)~6:25
 
-173. []()~
+173. [Установка позиций и размера главного окна](https://www.youtube.com/watch?v=ecWJphoxoRc&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=173)~8:08
 
 174. []()~
 
