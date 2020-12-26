@@ -466,7 +466,7 @@
 
 170. [Добавление слушателя клавиатуры.](https://www.youtube.com/watch?v=xR0_0-HfTbo&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=170)~8:50
 
-171. []()~
+171. [Обработка нажатых символов](https://www.youtube.com/watch?v=cWmqPyJ6Ib4&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=171)~9:00
 
 172. []()~
 
