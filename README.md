@@ -462,9 +462,9 @@
 
 168. [Работа с событиями клавиатуры](https://www.youtube.com/watch?v=61DCf_NMbbw&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=168)~11:40
 
-169. []()~
+169. [Создание методов для проверки правильности](https://www.youtube.com/watch?v=7zthtnpy1Bo&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=169)~0:51
 
-170. []()~
+170. [Добавление слушателя клавиатуры.](https://www.youtube.com/watch?v=xR0_0-HfTbo&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=170)~8:50
 
 171. []()~
 
