@@ -480,7 +480,7 @@
 
 177. [Создание класса для систематизации символов](https://www.youtube.com/watch?v=YGoDiFTNXgs&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=177)~16:33
 
-178. []()~
+178. [Класс для хранения информации о клавишах](https://www.youtube.com/watch?v=wbCzHMkTZjw&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=178)~18:10
 
 179. []()~
 
