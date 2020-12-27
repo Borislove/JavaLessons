@@ -478,7 +478,7 @@
 
 176. [Создание класса, обрабатывающего нажатие Shift](https://www.youtube.com/watch?v=JhZSUGmk0r8&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=176)~7:03
 
-177. []()~
+177. [Создание класса для систематизации символов](https://www.youtube.com/watch?v=YGoDiFTNXgs&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=177)~16:33
 
 178. []()~
 
