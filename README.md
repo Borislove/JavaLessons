@@ -476,7 +476,7 @@
 
 175. [Храние информации о пальцах](https://www.youtube.com/watch?v=zhlWb8IPCXI&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=175)~16:33
 
-176. []()~
+176. [Создание класса, обрабатывающего нажатие Shift](https://www.youtube.com/watch?v=JhZSUGmk0r8&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=176)~7:03
 
 177. []()~
 
