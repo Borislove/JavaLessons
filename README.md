@@ -474,7 +474,7 @@
 
 174. [Создание класса KeyCode](https://www.youtube.com/watch?v=7pT25Bbj3HE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=174)~14:23
 
-175. []()~
+175. [Храние информации о пальцах](https://www.youtube.com/watch?v=zhlWb8IPCXI&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=175)~16:33
 
 176. []()~
 
