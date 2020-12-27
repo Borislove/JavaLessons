@@ -490,6 +490,14 @@
 
 182. [Создание класса KeyIcon (Часть 2)](https://www.youtube.com/watch?v=zhxMvnwEaIU&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=182)~5:40    
 
+183.[Создание класса KBLayout (Часть 1)](https://www.youtube.com/watch?v=AGOJxnYeyVE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=183)~11:47
 
+184.[]()~
+
+185.[]()~
+
+186.[]()~
+
+187.[]()~
 ~ (символ для индекса)
 []()~
