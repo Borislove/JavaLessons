@@ -486,6 +486,10 @@
 
 180. [Создание иконки обозначающей палец](https://www.youtube.com/watch?v=wnwN_Y27rSo&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=180)~12:46
 
+181. [Создание класса KeyIcon (Часть 1)](https://www.youtube.com/watch?v=3GQl82-iI6U&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=181)~13:11
+
+    
+
 
 ~ (символ для индекса)
 []()~
