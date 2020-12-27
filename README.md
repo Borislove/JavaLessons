@@ -472,7 +472,7 @@
 
 173. [Установка позиций и размера главного окна](https://www.youtube.com/watch?v=ecWJphoxoRc&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=173)~8:08
 
-174. []()~
+174. [Создание класса KeyCode](https://www.youtube.com/watch?v=7pT25Bbj3HE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=174)~14:23
 
 175. []()~
 
