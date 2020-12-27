@@ -482,7 +482,7 @@
 
 178. [Класс для хранения информации о клавишах](https://www.youtube.com/watch?v=wbCzHMkTZjw&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=178)~18:10
 
-179. []()~
+179. [Создание иконки клавиши](https://www.youtube.com/watch?v=ozXZaNobauQ&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=179)~17:06
 
 180. []()~
 
