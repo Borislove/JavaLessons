@@ -488,7 +488,7 @@
 
 181. [Создание класса KeyIcon (Часть 1)](https://www.youtube.com/watch?v=3GQl82-iI6U&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=181)~13:11
 
-    
+182. [Создание класса KeyIcon (Часть 2)](https://www.youtube.com/watch?v=zhxMvnwEaIU&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=182)~5:40    
 
 
 ~ (символ для индекса)
