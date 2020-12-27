@@ -484,7 +484,7 @@
 
 179. [Создание иконки клавиши](https://www.youtube.com/watch?v=ozXZaNobauQ&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=179)~17:06
 
-180. []()~
+180. [Создание иконки обозначающей палец](https://www.youtube.com/watch?v=wnwN_Y27rSo&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=180)~12:46
 
 
 ~ (символ для индекса)
