@@ -510,7 +510,7 @@
 
 192.[Создаем методы, подсветка иконок (Часть 1)](https://www.youtube.com/watch?v=HpbUqsOL-b8&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=192)~11:43
 
-193.[]()~
+193.[Создаем методы, подсветка иконок (Часть 2)](https://www.youtube.com/watch?v=RQ36asXJB8g&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=193)~9:36
 
 194.[]()~
 
