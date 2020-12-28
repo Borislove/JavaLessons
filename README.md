@@ -498,6 +498,6 @@
 
 186.[Определяем некоторые переменные (Часть 2)](https://www.youtube.com/watch?v=Wi7qCO3sN6c&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=186)~10:42
 
-187.[]()~
+187.[KeyboardGUI. Конструктор класса](https://www.youtube.com/watch?v=85mIh_ebuTk&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=187)~15:30
 ~ (символ для индекса)
 []()~
