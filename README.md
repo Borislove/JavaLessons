@@ -494,7 +494,7 @@
 
 184.[Создание класса KBLayout (Часть 2)](https://www.youtube.com/watch?v=uqaFJQtcksQ&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=184)~12:15
 
-185.[]()~
+185.[Определяем некоторые переменные (Часть 1)](https://www.youtube.com/watch?v=qwyt-4Qg6w0&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=185)~10:04
 
 186.[]()~
 
