@@ -499,5 +499,23 @@
 186.[Определяем некоторые переменные (Часть 2)](https://www.youtube.com/watch?v=Wi7qCO3sN6c&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=186)~10:42
 
 187.[KeyboardGUI. Конструктор класса](https://www.youtube.com/watch?v=85mIh_ebuTk&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=187)~15:30
+
+188.[Переопределяем метод run](https://www.youtube.com/watch?v=-ohIcjJZu5s&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=188)~7:14
+
+189.
+
+190.
+
+191.
+
+192.
+
+193.
+
+194.
+
+195.
+
+
 ~ (символ для индекса)
 []()~
