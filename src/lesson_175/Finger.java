@@ -1,6 +1,8 @@
 package lesson_175;
 
+import java.util.Enumeration;
 import java.util.Hashtable;
+import java.util.Vector;
 
 //Урок №175.Храние информации о пальцах
 public class Finger {
@@ -19,9 +21,22 @@ public class Finger {
     public static final Finger RH_RING = new Finger("RH_RING");
     public static final Finger RH_PINKY = new Finger("RH_PINKY");
 
+    private static Vector fingers = new Vector();
+
+
     private static Hashtable fingers_by_name = new Hashtable();
 
     static {
+
+        fingers.addElement(LH_PINKY);
+        fingers.addElement(RH_PINKY);
+        fingers.addElement(LH_RING);
+        fingers.addElement(RH_PINKY);
+        fingers.addElement(LH_MIDDLE);
+        fingers.addElement(RH_MIDDLE);
+        fingers.addElement(LH_INDEX);
+        fingers.addElement(RH_INDEX);
+
         //fingers_by_name.put("NO_FINGER", NO_FINGER);
 
         fingers_by_name.put("LH_PINKY", LH_PINKY);
@@ -35,6 +50,10 @@ public class Finger {
         fingers_by_name.put("RH_MIDDLE", RH_MIDDLE);
         fingers_by_name.put("RH_INDEX", RH_INDEX);
         fingers_by_name.put("RH_THUMB", RH_THUMB);
+    }
+
+    public static Enumeration get_elements() {
+        return (fingers.elements());
     }
 
     public Finger(String id) {
@@ -57,8 +76,8 @@ public class Finger {
         return id;
     }
 
-    public static Finger find_finger(String name){
-        return ((Finger)(fingers_by_name.get(name)));
+    public static Finger find_finger(String name) {
+        return ((Finger) (fingers_by_name.get(name)));
     }
 
     public static void main(String[] args) {
