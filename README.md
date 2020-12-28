@@ -502,19 +502,19 @@
 
 188.[Переопределяем метод run](https://www.youtube.com/watch?v=-ohIcjJZu5s&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=188)~7:14
 
-189.
+189.[Методы new_icon и new_fingericon](https://www.youtube.com/watch?v=TNoQrDFgOZE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=189)~10:00
 
-190.
+190.[]()~
 
-191.
+191.[]()~
 
-192.
+192.[]()~
 
-193.
+193.[]()~
 
-194.
+194.[]()~
 
-195.
+195.[]()~
 
 
 ~ (символ для индекса)
