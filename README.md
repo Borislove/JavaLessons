@@ -492,7 +492,7 @@
 
 183.[Создание класса KBLayout (Часть 1)](https://www.youtube.com/watch?v=AGOJxnYeyVE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=183)~11:47
 
-184.[]()~
+184.[Создание класса KBLayout (Часть 2)](https://www.youtube.com/watch?v=uqaFJQtcksQ&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=184)~12:15
 
 185.[]()~
 
