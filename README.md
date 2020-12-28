@@ -514,7 +514,7 @@
 
 194.[Переопределяем метод setVisible](https://www.youtube.com/watch?v=hVK0SsThyhA&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=194)~7:15
 
-195.[]()~
+195.[Регистрируем клавиатуру в главном окне](https://www.youtube.com/watch?v=BGiEet0vIbk&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=195)~10:20
 
 
 ~ (символ для индекса)
