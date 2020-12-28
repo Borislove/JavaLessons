@@ -496,7 +496,7 @@
 
 185.[Определяем некоторые переменные (Часть 1)](https://www.youtube.com/watch?v=qwyt-4Qg6w0&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=185)~10:04
 
-186.[]()~
+186.[Определяем некоторые переменные (Часть 2)](https://www.youtube.com/watch?v=Wi7qCO3sN6c&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=186)~10:42
 
 187.[]()~
 ~ (символ для индекса)
