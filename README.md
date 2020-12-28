@@ -504,9 +504,9 @@
 
 189.[Методы new_icon и new_fingericon](https://www.youtube.com/watch?v=TNoQrDFgOZE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=189)~10:00
 
-190.[]()~
+190.[Создаем методы, раскраска иконок](https://www.youtube.com/watch?v=z2ERN8XtKYE&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=190)~14:17
 
-191.[]()~
+191.[Подсвечиваем иконки](https://www.youtube.com/watch?v=3NgoPrQa9Og&list=PLnV3K-pmuXwg9S6YhNnWvOG3PXkSaVPsN&index=191)~8:57
 
 192.[]()~
 
